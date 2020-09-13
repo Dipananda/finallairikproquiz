@@ -1002,7 +1002,7 @@ function startCycleTen() {
    cycleTimerTen = setInterval(function () {
     $('#answers').val('');
     $('#nextBtnTen').click();
-   }, 3000);
+   }, 10000);
 }
 
 function stopCycleTen() {
