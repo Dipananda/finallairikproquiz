@@ -46,7 +46,7 @@ function startCycle() {
    cycleTimer = setInterval(function () {
     $('#answers').val('');
     $('#nextBtn').click();
-   }, 3000);
+   }, 90000);
 }
 
 function stopCycle() {
@@ -146,7 +146,7 @@ function startCycleOne() {
    cycleTimerOne = setInterval(function () {
     $('#answers').val('');
     $('#nextBtnOne').click();
-   }, 3000);
+   }, 90000);
 }
 
 function stopCycleOne() {
@@ -622,7 +622,7 @@ function startCycleSix() {
    cycleTimerSix = setInterval(function () {
     $('#answers').val('');
     $('#nextBtnSix').click();
-   }, 3000);
+   }, 90000);
 }
 
 function stopCycleSix() {
@@ -717,7 +717,7 @@ function startCycleSeven() {
    cycleTimerSeven = setInterval(function () {
     $('#answers').val('');
     $('#nextBtnSeven').click();
-   }, 3000);
+   }, 90000);
 }
 
 function stopCycleSeven() {
@@ -812,7 +812,7 @@ function startCycleEight() {
    cycleTimerEight = setInterval(function () {
     $('#answers').val('');
     $('#nextBtnEight').click();
-   }, 3000);
+   }, 90000);
 }
 
 function stopCycleEight() {
@@ -907,7 +907,7 @@ function startCycleNine() {
    cycleTimerNine = setInterval(function () {
     $('#answers').val('');
     $('#nextBtnNine').click();
-   }, 3000);
+   }, 90000);
 }
 
 function stopCycleNine() {
@@ -1002,7 +1002,7 @@ function startCycleTen() {
    cycleTimerTen = setInterval(function () {
     $('#answers').val('');
     $('#nextBtnTen').click();
-   }, 10000);
+   }, 90000);
 }
 
 function stopCycleTen() {
